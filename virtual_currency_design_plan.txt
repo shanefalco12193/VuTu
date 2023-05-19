@@ -1,0 +1,4 @@
+Design Plan for Virtual Currency System:
+- Use of Stripe API to process virtual currency purchases
+- Integration of ad network SDKs to display ads and reward users with virtual currency
+- Use of Youtube API to reward users with virtual currency for watching other individual's Youtube videos

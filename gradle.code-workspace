@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../GitHub/gradle"
+		},
+		{
+			"path": "../GitHub/gradle/subprojects/ide/src/integTest/resources/org/gradle/plugins/ide/idea/IdeaIntegrationTest/addsScalaSdkAndCompilerLibraries"
+		}
+	],
+	"settings": {}
+}

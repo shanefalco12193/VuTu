@@ -1,0 +1,8 @@
+- Define our target market
+- Gather information about their habits, likes, dislikes, wants, and needs
+- Narrow down our research to their behavior with mobile applications
+- Speak to people in every part of our target customers' business to validate our idea
+- Identify the latest technology trends and patterns of the app
+- Finalize the app's features and functionalities
+- Design the user interface and user experience of the app. The users should be able to log in, integrate their youtube channels, allow other users to select videos to be viewed, for how long, and how many views
+- Create a virtual currency for users to be able to purchase campaigns. The virtual currency needs to be purchased through stripe, earned through watching ads from a 3rd party, or earned through watching other individual's youtube videos

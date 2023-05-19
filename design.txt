@@ -1,0 +1,3 @@
+Design:
+1. Design the user interface and user experience of the app
+2. Ensure that users can log in, integrate their youtube channels, and allow other users to select videos to be viewed, for how long, and how many views

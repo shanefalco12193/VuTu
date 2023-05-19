@@ -1,0 +1,12 @@
+User Interface and User Experience Design Plan:
+
+- The app should have a clean and modern design
+- The app should be easy to navigate
+- The app should have a login screen
+- The app should have a dashboard that displays the user's Youtube channels
+- The app should have a screen for selecting videos to be viewed
+- The app should have a screen for specifying how long videos should be viewed
+- The app should have a screen for specifying how many views the user wants
+- The app should have a screen for purchasing campaigns with virtual currency
+- The app should have a screen for earning virtual currency by watching ads from a 3rd party
+- The app should have a screen for earning virtual currency by watching other individual's Youtube videos

@@ -1,0 +1,8 @@
+1. Responsive Mobile App Design Features. With mobile users expected to reach five billion by year-end, app functionality, efficiency, and a responsive design that works well across all mobile platforms - iOS and Android - phones, tablets, and now watches - is imperative.
+2. A mobile app should have a user-friendly interface and be responsive. Customers want to have a seamless experience and clearly understand what to do with the app, which buttons to click and so on.
+3. Mobile app development requires that you focus on the features and functionalities that are most important to users, and resist the urge to bog it down with too many bells and whistles....
+4. The YouTube IFrame Player API lets you incorporate video playback functionality into your Android applications. The API defines methods for loading and playing YouTube videos (and playlists) and for customizing and controlling the video playback experience. Note: The YouTube Android Player API is no longer supported or maintained by YouTube.
+
+5. The mobile app should allow users to select a video that they want viewed from YouTube.
+6. The mobile app should allow users to integrate their YouTube channels.
+7. The mobile app should allow other users to select videos to be viewed, for how long, and how many views.

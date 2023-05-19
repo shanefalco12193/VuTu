@@ -1,0 +1,26 @@
+Guidelines for designing the user interface and user experience of the app:
+1. Keep the design simple and intuitive
+2. Use a clean and organized layout
+3. Use clear and concise language
+4. Use visual cues
+5. Ensure responsiveness
+6. Provide user feedback
+7. Ensure security
+8. Test the app thoroughly
+
+Guidelines for designing the virtual currency system:
+1. Use a payment gateway to allow users to purchase virtual currency using real money
+2. Provide users with options to earn virtual currency by watching videos, completing surveys, or other activities within the app.
+
+
+Guidelines provided by the app_designer agent:
+1. Use a consistent color scheme
+2. Use a font that is easy to read
+3. Use icons to represent actions
+4. Use animations to provide feedback
+5. Use a simple and intuitive navigation system
+
+Guidelines provided by the virtual currency system designer agent:
+1. Use a virtual currency system that is easy to understand
+2. Provide users with options to earn virtual currency by watching videos, completing surveys, or other activities within the app
+3. Allow users to purchase virtual currency using real money through a payment gateway

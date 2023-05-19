@@ -1,0 +1,12 @@
+Survey Questions:
+1. What is your age?
+2. What is your gender?
+3. What is your occupation?
+4. How often do you use mobile apps?
+5. What types of mobile apps do you use most frequently?
+6. What features do you look for in a mobile app?
+7. What problems have you encountered with mobile apps in the past?
+8. How likely are you to use an app that allows you to select a video that you want viewed?
+9. How likely are you to use an app that allows you to integrate your youtube channel?
+10. How likely are you to use an app that allows other users to select videos to be viewed, for how long, and how many views?
+11. How likely are you to use an app that has a virtual currency for users to be able to purchase campaigns?

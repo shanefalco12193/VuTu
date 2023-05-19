@@ -1,0 +1,13 @@
+YouTube Video Integration:
+
+1. The app should allow users to select a video that they want viewed.
+
+2. The app should integrate with the YouTube API to retrieve video information and display it within the app.
+
+3. The app should allow users to search for videos by keyword or channel.
+
+4. The app should allow users to filter videos by category or popularity.
+
+5. The app should allow users to rate and comment on videos.
+
+6. The app should allow users to share videos on social media platforms like Facebook, Twitter, and Instagram.

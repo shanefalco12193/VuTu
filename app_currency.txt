@@ -1,0 +1,13 @@
+Virtual Currency System:
+
+1. The app should have a virtual currency system that allows users to purchase campaigns.
+
+2. The virtual currency should be purchased through stripe, earned through watching ads from a 3rd party, or earned through watching other individual's youtube videos.
+
+3. The app should have a virtual currency store where users can purchase virtual currency using their credit/debit cards or other payment methods.
+
+4. The app should have a virtual currency balance that displays the user's current virtual currency balance.
+
+5. The app should have a virtual currency history that displays the user's virtual currency transactions.
+
+6. The app should have a virtual currency earning system that allows users to earn virtual currency through various means, such as watching ads or other users' YouTube videos.

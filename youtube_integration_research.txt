@@ -1,0 +1,5 @@
+Research findings on how to integrate Youtube videos into the app:
+- Use of the Youtube Android Player API to incorporate video playback functionality into the app
+- Load and play Youtube videos and playlists using the API
+- Use of the Youtube Helper Library to embed Youtube videos in iOS applications
+- Use of the Youtube Mobile Live deep link to initiate a Youtube live stream directly from a mobile device

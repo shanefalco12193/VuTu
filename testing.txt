@@ -1,0 +1,1 @@
+The app must be tested to ensure that it works as expected and that it has the necessary features to solve the problem it aims to solve. The testing framework will be used to test the app's features and functionalities.

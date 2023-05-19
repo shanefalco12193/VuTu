@@ -1,0 +1,11 @@
+Design the user interface and user experience of the app using the following general tips:
+
+1. Keep it simple and intuitive: The user interface should be easy to navigate and understand. Avoid clutter and unnecessary elements.
+
+2. Consistency: Use consistent design elements throughout the app to create a cohesive experience.
+
+3. Use color and typography effectively: Choose colors and typography that are easy on the eyes and complement each other.
+
+4. Prioritize important information: Make sure the most important information is easy to find and stands out.
+
+5. Test and iterate: Test the app with real users and iterate based on their feedback.

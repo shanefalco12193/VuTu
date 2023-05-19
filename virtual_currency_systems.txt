@@ -1,0 +1,26 @@
+Virtual Currency Systems:
+
+1. Coinbase
+- Features: Supports multiple cryptocurrencies, easy to use API, secure
+- Pricing: 1.49% transaction fee
+- Integration: API
+
+2. BitPay
+- Features: Supports Bitcoin and Bitcoin Cash, easy to use API, secure
+- Pricing: 1% transaction fee
+- Integration: API
+
+3. PayPal
+- Features: Supports multiple currencies, easy to use API, secure
+- Pricing: 2.9% + $0.30 transaction fee
+- Integration: API
+
+4. Stripe
+- Features: Supports multiple currencies, easy to use API, secure
+- Pricing: 2.9% + $0.30 transaction fee
+- Integration: API
+
+5. Square
+- Features: Supports multiple currencies, easy to use API, secure
+- Pricing: 2.9% + $0.30 transaction fee
+- Integration: API

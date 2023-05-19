@@ -1,0 +1,5 @@
+Iteration:
+1. User Feedback: to gather feedback on new features and improvements
+2. Technical Feasibility: to ensure that new features and improvements are technically feasible
+3. Business Goals: to ensure that new features and improvements align with business goals
+4. Design Principles: to ensure that new features and improvements align with design principles

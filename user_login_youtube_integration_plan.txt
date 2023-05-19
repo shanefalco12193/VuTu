@@ -1,0 +1,5 @@
+User Login and Youtube Channel Integration Plan:
+- Use of Firebase Authentication to allow users to log in to the app
+- Integration of Youtube API to allow users to connect their Youtube channels to the app
+- Use of Youtube Data API to retrieve user's Youtube channel information and video data
+- Use of Youtube Analytics API to retrieve user's Youtube channel analytics data

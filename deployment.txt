@@ -1,0 +1,4 @@
+Deployment:
+1. Deploy the app to the App Store and Google Play Store
+2. Submit the app to the respective app stores
+3. Ensure that the app meets all of the necessary requirements

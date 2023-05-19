@@ -1,0 +1,34 @@
+Features and functionalities of the app:
+1. User login and registration
+2. Integration with Youtube API
+3. Ability to select a video to be viewed
+4. Ability to set the duration and number of views for a video
+5. Virtual currency system for purchasing campaigns
+6. Ability to earn virtual currency by watching ads or other users' videos
+7. Simple and intuitive navigation system
+8. Responsive design for mobile devices
+9. Integration with payment gateway for purchasing virtual currency
+10. User profile management
+11. Campaign management
+12. Analytics and reporting
+13. Push notifications
+14. Social media sharing
+15. User feedback and support
+The app must allow users to select videos from their YouTube channels and specify how long and how many views they want the video to receive.
+Features and functionalities of the app:
+1. User login and registration
+2. Integration with Youtube API
+3. Ability to select a video to be viewed
+4. Ability to set the duration and number of views for a video
+5. Virtual currency system for purchasing campaigns
+6. Ability to earn virtual currency by watching ads or other users' videos
+7. Simple and intuitive navigation system
+8. Responsive design for mobile devices
+9. Integration with payment gateway for purchasing virtual currency
+10. User profile management
+11. Campaign management
+12. Analytics and reporting
+13. Push notifications
+14. Social media sharing
+15. User feedback and support
+The app must allow users to select videos from their YouTube channels and specify how long and how many views they want the video to receive.

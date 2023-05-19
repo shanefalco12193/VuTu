@@ -1,0 +1,2 @@
+Database Creation:
+1. Create a database to store user information, virtual currency, and other relevant data

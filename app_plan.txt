@@ -1,0 +1,10 @@
+- Integrate the YouTube Data API into the app
+- Create a system for users to select a video that they want viewed
+- Design the user interface and user experience of the app
+- Implement user authentication into the app
+- Implement a system for users to integrate their YouTube channels into the app
+- Create a system for users to allow other users to select videos to be viewed, for how long, and how many views
+- Implement the virtual currency system into the app
+- Implement the user interface and user experience design into the app
+- Test the app and refine it based on feedback
+- Publish the app to the App Store

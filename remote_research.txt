@@ -1,0 +1,5 @@
+Remote Research:
+1. Online Surveys: to gather quantitative data on user preferences and behavior
+2. Video Conferencing: to conduct remote interviews and focus groups
+3. Remote Usability Testing: to evaluate the usability and functionality of the app interface
+4. Analytics: to gather data on user behavior and engagement with the app

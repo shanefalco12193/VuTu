@@ -1,0 +1,11 @@
+List of Required Functionalities:
+- User authentication and authorization
+- User profile management
+- Integration with Youtube API
+- Ability to select and view Youtube videos
+- Virtual currency system
+- In-app purchases
+- User feedback and rating system
+- Push notifications
+- Social media integration
+- Analytics and reporting tools

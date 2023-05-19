@@ -1,0 +1,11 @@
+Best Practices for Mobile App Design User Interface and User Experience:
+
+- Design for mobile
+- Create a user persona
+- Minimize content
+- Design for minimal page-loading times
+- Use well-known and familiar icons
+- Give feedback on user actions
+- Consider portrait and landscape modes
+- Know your users
+- Keep the interface simple

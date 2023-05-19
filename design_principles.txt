@@ -1,0 +1,14 @@
+Home Screen Design:
+1. Use a simple and clean layout
+2. Use a consistent color scheme
+3. Use clear and concise labels
+4. Use a prominent search bar
+5. Use a prominent call-to-action button
+
+Video Selection Screen Design:
+1. Use a simple and clean layout
+2. Use a consistent color scheme
+3. Use clear and concise labels
+4. Use a prominent search bar
+5. Use a video player with playback controls
+6. Use a thumbnail preview

@@ -1,0 +1,10 @@
+Mobile App Features and Functionalities:
+- User login and registration
+- Integration of Youtube videos
+- Virtual currency system
+- Campaign creation and management
+- User profile management
+- Social media sharing
+- In-app messaging
+- Push notifications
+- Analytics and reporting

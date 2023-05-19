@@ -1,0 +1,5 @@
+App Features:
+1. Integrate Youtube videos
+2. Allow users to select videos to be viewed, for how long, and how many views
+3. Create a virtual currency for users to purchase campaigns
+4. Allow users to earn virtual currency through watching ads from a 3rd party or watching other individual's youtube videos

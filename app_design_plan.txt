@@ -1,0 +1,12 @@
+- Use Balsamiq to create the wireframe of the app
+- Use React Native to develop the app for both iOS and Android platforms
+- Use Firebase to integrate Youtube videos into the app
+- Use Firebase to create a real-time database for the app
+- Use Stripe to implement the virtual currency system for the app
+- Use AdMob to implement the ad system for the app
+- Use Balsamiq to create the wireframe of the app
+- Use React Native to develop the app for both iOS and Android platforms
+- Use Firebase to integrate Youtube videos into the app
+- Use Firebase to create a real-time database for the app
+- Use Stripe to implement the virtual currency system for the app
+- Use AdMob to implement the ad system for the app

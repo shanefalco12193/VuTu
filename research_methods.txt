@@ -1,0 +1,5 @@
+Research Methods:
+1. Surveys: to gather quantitative data on user preferences and behavior
+2. Interviews: to gather qualitative data on user needs and expectations
+3. Usability Testing: to evaluate the usability and functionality of the app interface
+4. Analytics: to gather data on user behavior and engagement with the app

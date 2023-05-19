@@ -1,0 +1,11 @@
+Prioritized list of app features and functionalities:
+1. User login and authentication
+2. Integration with Youtube API
+3. Ability to select and view Youtube videos
+4. Virtual currency system
+5. User profile and settings
+6. Social sharing functionality
+7. In-app purchases
+8. Push notifications
+9. Analytics and reporting
+10. User feedback and support

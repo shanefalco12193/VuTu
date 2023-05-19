@@ -1,0 +1,5 @@
+Resources for learning about the Youtube API:
+- YouTube Data API documentation on Google Developers
+- YouTube API documentation on YouTube for Developers
+- How to Get a YouTube API Key tutorial on HubSpot Blog
+- Simple YouTube API documentation

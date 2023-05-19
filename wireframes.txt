@@ -1,0 +1,14 @@
+Wireframes:
+1. Login Screen
+2. Home Screen
+3. Video Selection Screen
+4. Video Playback Screen
+5. User Profile Screen
+6. Virtual Currency Screen
+Prototypes:
+1. Login Screen Prototype
+2. Home Screen Prototype
+3. Video Selection Screen Prototype
+4. Video Playback Screen Prototype
+5. User Profile Screen Prototype
+6. Virtual Currency Screen Prototype
